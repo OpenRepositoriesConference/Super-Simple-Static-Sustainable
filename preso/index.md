@@ -5,8 +5,7 @@
    
 ---
 
-<a href="sss.pdf">PDF version</a> | <a href="sss.pptx">Powerpoint Version</a>
-
+<a href="sss.pdf">PDF version</a> 
 
     
 
