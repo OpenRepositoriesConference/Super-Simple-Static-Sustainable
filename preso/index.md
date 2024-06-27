@@ -72,8 +72,6 @@ all content should be as accessible as possible
 
 See the [draft spec](https://docs.google.com/document/d/1y0Cu5cSia6rlRotnfdU_wcrZUL3DnjXx0MUah--_7-Y/edit).
 
-
-
 </section>
 
 
@@ -81,7 +79,11 @@ See the [draft spec](https://docs.google.com/document/d/1y0Cu5cSia6rlRotnfdU_wcr
 <section typeof='http://purl.org/ontology/bibo/Slide'>
 <img src='Slide4.png' alt='Generating Static repository from the Dynamic one ::  (Mahsa and Andjela) :: ' title='Slide: 4' border='1'  width='85%%'/>
 
+Mahsa Eshtehardi: I am a developer and work at the IT department of Chalmers University, where we assist researchers in storing their data. One of their main issues is searching through old records, while our primary concern is security. We prefer to host solutions locally to ensure data protection. I am here to learn more about different technologies related to open repositories. Additionally, I hope to discover new features and address potential concerns that may arise in our implementation.
 
+Anđela Tomić  - I am working at TU Delft as a senior technical developer. My skills and passion date back to the 80s when my first code as a developer was in machine language for the 6510, during which I created some games. This means I have been involved in software development for over 40 years, encompassing various languages, hacking, DIY projects, network design, database design, modelling and administration, smart homes, open hardware, and HAM radio. I am an open source and Linux enthusiast. On my LinkedIn, you will find the following: I came into this world with a screwdriver nestled in my left hand and an incredible, vibrant curiosity. My heart consistently beats to the rhythm of dreams, imagination, mending, advancement, and creation.
+
+Mahsa and Andgela worked on extracting data from a linked-data metadata store at  TU Delft to present a static view of the repository.
 
 
 
@@ -95,8 +97,10 @@ See the [draft spec](https://docs.google.com/document/d/1y0Cu5cSia6rlRotnfdU_wcr
 <img src='Slide5.png' alt='Simple export of Zip + HTML in Easy Open Format  | Hyeokjin Kwon (TU Delft / 4TU.ResearchData) ::  :: ' title='Slide: 5' border='1'  width='85%%'/>
 
 
+Hyeokjin Kwon (TU Delft / 4TU.ResearchData):  I am a software engineer maintaining https://data.4tu.nl/. One of my goals for our in-house made software is to keep it simple and small. I registered for this session to know if there’s anything I can learn more about.
 
 
+Worked on adding more information to zip downloads in the repository he works on and is investigating RO-Crate.
 
 
 
@@ -107,7 +111,9 @@ See the [draft spec](https://docs.google.com/document/d/1y0Cu5cSia6rlRotnfdU_wcr
 <section typeof='http://purl.org/ontology/bibo/Slide'>
 <img src='Slide6.png' alt='EPrints to Easy Open static export :: Here’s last year’s slides… (sorry Rory ;) Actually, here’s a SVN commit: :: ~/tools/static_site.plRev 7182 – 4607 d 19 h (Monday 24th October 2011)Author: tdb01r (Tim Brody)Log message:* experimental tool to generate a static version of an EPrints repository :: Started enhancing it to output the site in EasyOPEN as previously described. :: Outputs an EPrintsXML metadata file, thumbnails, documents, browse views :: Browser-based search using Lunr.js https://lunrjs.com/ A bit like Solr, but much smaller and not as bright. ::  :: ' title='Slide: 6' border='1'  width='85%%'/>
 
+Will Fyson - I’m a software engineer who works for CoSector at the University of London. We support a number of institutional repositories on different platforms, but my experience is primarily with EPrints and I’d be interested to learn more and explore the possibility of turning an EPrints repository into an offline, stand-alone repository, that can potentially be updated again when Web access is available.
 
+John Salter (White Rose Libraries / University of Leeds, UK). Not sure what I’m expecting - happy to have a play with some new tools to help me understand what’s out there, and how they may fit into things I need to do. I’m an EPrints developer/support person (alongside a load of historical cruft I’ve gathered from working in a Library Systems Team / University IT service for too long).
 
 So, it turns out EPrints started work on this topic approximately 4610 days ago.None of us had actually run it. We have now. It still works, and outputs a static browseable site, thumbnails, content.So we broke it whilst trying to make it output a site in the EasyOPEN format previously described.Can output static metadata file in a variety of formats (e.g. DC, JSON)
 
